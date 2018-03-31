@@ -7,7 +7,7 @@ To use these codes download the data from online described locations or the data
 
 
 The version of various libraries used are:
-python : 3.6.5
-pandas : 0.22.0 
+python : 3.6.5<br/>
+pandas : 0.22.0<br/> 
 keras : 2.1.5 
 sklearn : 0.19.1
